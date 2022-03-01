@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Al-Aidroos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Hussain
+
+- 🌱 I’m currently in the second semester of Computer Science at Goethe University in Frankfurt/M
+- 👀 I’m interested in Front-end web development (UI), cyber security and coding in general.
+- 💞️ I’m looking to gather experience and improve my skills.
+
 
 <!---
 Al-Aidroos/Al-Aidroos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
